@@ -16,5 +16,6 @@ class Start implements StartInterface{
     //put your code here
     public function getName() {
         echo 'Go';
+        //Go
     }
 }
