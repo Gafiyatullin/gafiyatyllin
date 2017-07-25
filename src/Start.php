@@ -18,4 +18,8 @@ class Start implements StartInterface{
         echo 'Go';
         //Go
     }
+    
+    public function getS(){
+        echo 'f';
+    }
 }
