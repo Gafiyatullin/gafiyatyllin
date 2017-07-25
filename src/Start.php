@@ -15,6 +15,7 @@ namespace gafiyatullin\start;
 class Start implements StartInterface{
     //put your code here
     public function getName() {
+        //12
         echo 'Go';
         //Go
     }
